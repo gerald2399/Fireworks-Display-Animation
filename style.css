@@ -52,8 +52,6 @@ body {
   
 .text {
     font-family: 'Charm', cursive;
-    margin: 0;
-    padding: 0;
     font-size: 6rem;
     background: url('img/text-bg.png') no-repeat;
     background-clip: text;
