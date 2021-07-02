@@ -93,6 +93,7 @@ body {
 @media (max-width: 600px) {
     .text {
         font-size: 1.8rem;
+        margin: 20px 0px;
     }
 }
 
