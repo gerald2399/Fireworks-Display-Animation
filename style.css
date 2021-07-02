@@ -2,11 +2,13 @@ body {
     margin: 0;
     padding: 0;
     background: #000;
+    height: 100vh;
 }
 
 .container {
     background: url('img/rushmore.jpg') no-repeat center center/cover;
     background-attachment: fixed;
+    display: block;
     width: 100%;
     height: 100vh;
 }
@@ -52,6 +54,8 @@ body {
   
 .text {
     font-family: 'Charm', cursive;
+    margin: 0;
+    padding: 0;
     font-size: 6rem;
     background: url('img/text-bg.png') no-repeat;
     background-clip: text;
@@ -76,6 +80,7 @@ body {
 @media (max-width: 1024px) {
     .text {
         font-size: 4rem;
+        margin: 15px 0px;
     }
 }
 
