@@ -1,5 +1,5 @@
 # Fireworks Display Animation Landing Page
-### Live Site: https://geraldandrews.github.io/Fireworks-Display-Animation/
+### Live Site: https://independencedayfireworks.netlify.app/
 
 ### Project Description: Personal
 ### Programs Used: GIMP, HTML, CSS, and JavaScript
